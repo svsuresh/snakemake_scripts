@@ -1,6 +1,5 @@
 import os
 
-
 sample_dict = {}
 # print(os.listdir("raw_data"))
 for i in (os.listdir("raw_data")):
